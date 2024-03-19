@@ -1,2 +1,2 @@
 # odin-recipes
-A collection of recipes for The Odin Project Curriculum 
+A collection of recipes for The Odin Project
